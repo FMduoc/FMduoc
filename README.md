@@ -1,4 +1,11 @@
-## Hi there 👋
+# Github de Felipe Madariaga 🌱
+
+## Metas de estudio 2026:
+
+https://roadmap.sh/ |
+Completar roadmaps Frontend, Backend, Cyber Security.
+
+Avanzar en estudios de alemán y japonés.
 
 <!--
 **FMduoc/FMduoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
